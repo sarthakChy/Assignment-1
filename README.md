@@ -1,6 +1,6 @@
-# Assignment-1
+# Assignment-1a
 
-This repository contains solutions to **Assignment-1** of the course. Each question's solution is available in a separate file as listed below:
+This repository contains solutions to **Assignment-1a** of the course. Each question's solution is available in a separate file as listed below:
 
 ## Contents
 
